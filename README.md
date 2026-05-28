@@ -21,8 +21,6 @@
   <img src="screenshots/screen2.png" width="200" alt="RepsRPG screenshot">
   &nbsp;
   <img src="screenshots/screen3.png" width="200" alt="RepsRPG screenshot">
-  &nbsp;
-  <img src="screenshots/screen4.png" width="200" alt="RepsRPG screenshot">
 </p>
 
 </div>
